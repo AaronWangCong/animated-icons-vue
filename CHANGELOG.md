@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.2](https://github.com/AaronWangCong/animated-icons/compare/0.2.1...0.2.2) (2026-04-09)
+
+
+### Bug Fixes
+
+* 优化首页展示 ([e051e6d](https://github.com/AaronWangCong/animated-icons/commit/e051e6d88d93cb64446195de6e3e3859b2aed826))
+
 ## [0.2.1](https://github.com/AaronWangCong/animated-icons/compare/0.2.0...0.2.1) (2026-04-03)
 
 # 0.2.0 (2026-04-03)

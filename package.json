@@ -1,6 +1,6 @@
 {
   "name": "animated-icons",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "private": true,
   "description": "Animated SVG icon library for Vue 3",
   "scripts": {
