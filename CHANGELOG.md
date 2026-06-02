@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.2.3](https://github.com/AaronWangCong/animated-icons-vue/compare/0.2.1...0.2.3) (2026-06-02)
+
+
+### Bug Fixes
+
+* 修改预览地址 ([b61c948](https://github.com/AaronWangCong/animated-icons-vue/commit/b61c9486a7c23c1abd702f694834efc560cb1038))
+* 优化首页展示 ([e051e6d](https://github.com/AaronWangCong/animated-icons-vue/commit/e051e6d88d93cb64446195de6e3e3859b2aed826))
+* update audio-lines ([47cef9e](https://github.com/AaronWangCong/animated-icons-vue/commit/47cef9e2a431503a5df037a058d1b5685cbe9aef))
+
 ## [0.2.2](https://github.com/AaronWangCong/animated-icons/compare/0.2.1...0.2.2) (2026-04-09)
 
 
