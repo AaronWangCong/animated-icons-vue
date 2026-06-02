@@ -98,7 +98,7 @@ function land() {
 
 ## 🌐 Preview
 
-Visit **[animated-icons.vercel.app](https://animated-icons.vercel.app)** to browse all icons with live animation previews.
+Visit **[animated-icons-docs.vercel.app](https://animated-icons-docs.vercel.app)** to browse all icons with live animation previews.
 
 ## 🤝 Contributing
 
